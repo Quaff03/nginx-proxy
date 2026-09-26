@@ -7,6 +7,7 @@
 - 解压到有可执行权限的目录下
 - 安装 conf 中的 proxy.cer 证书至 受信任的根证书颁发者
 - 修改 hosts 文件，加入下面几行：
+
 <code>
 127.0.0.1 zh.wikipedia.org
 
