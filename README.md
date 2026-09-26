@@ -9,6 +9,8 @@
 - 修改 hosts 文件，加入下面几行：
 <code>
 127.0.0.1 zh.wikipedia.org
+
 127.0.0.1 zh.m.wikipedia.org
 </code>
+
 - 运行 nginx.exe
